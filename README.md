@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04B404&size=35&center=true&vCenter=true&width=1000&lines=HELLO_,+MY+NAME+is+Rhuan_Carlos;I+am+a+Computer_Engineer👨🏻‍💻;Be_Welcome!+:%29)](https://git.io/typing-svg) 
 
  <div id="badges" align="center">
-  <a href = "https://github.com/rhuanovski">
+  <a href = "https://www.linkedin.com/in/rhuan-carlos-vieira-feitoza/">
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/rhuanzx.07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-darkgreen?style=for-the-badge&logo=instagram&logoColor=white"</a>
