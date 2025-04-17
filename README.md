@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04B404&size=35&center=true&vCenter=true&width=1000&lines=HELLO_,+MY+NAME+is+Rhuan_Carlos;I+am+a+Computer_Engineer👨🏻‍💻;Be_Welcome!+:%29)](https://git.io/typing-svg) 
 
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxNjF3M3kyMzd5a283aDl3aXQxZm5wb2MyZDZpZG15MXF6dW45bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150" alt="Animação de boas-vindas">
+ 
  <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/rhuan-carlos-vieira-feitoza/">
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
